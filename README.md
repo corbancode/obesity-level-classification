@@ -1,4 +1,4 @@
-## 1. Introduction
+## 1. Obesity Level Estimation Using Machine Learning
 This study investigates the effectiveness of various machine learning algorithms for obesity level classification using lifestyle and anthropometric data. The research aims to develop a clinically validated prediction model that can assist healthcare professionals in early obesity risk assessment and intervention planning.
 
 
